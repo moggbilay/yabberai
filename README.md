@@ -1,5 +1,11 @@
 # Yabber App
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/moggbilay/yabberai/main/white-logo.png" alt="Yabber App Logo" width="150"/>
+</p>
+
+> An intelligent AI-powered desktop assistant for document analysis and conversation
+
 > An intelligent AI-powered desktop assistant for document analysis and conversation
 
 Yabber App is a desktop application that provides specialized AI workspaces for different tasks. Built with Electron and powered by local AI models through Ollama, it offers privacy-focused AI assistance without sending your data to the cloud.
